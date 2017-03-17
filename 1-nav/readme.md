@@ -1,5 +1,7 @@
 # 任务 - 1 侧边导航栏
 
+## 1.任务详情
+
 * 时间：2017/3/17 - 2017/3/24
 * 任务内容： 制作侧边导航栏
 * 任务目的：
@@ -15,3 +17,10 @@
 	* [版本控制入门 – 搬进 Github](http://www.imooc.com/learn/390)
 	* [nav标签](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 	* [Bootstrap导航条](http://v3.bootcss.com/components/#navbar)
+
+## 2.任务完成情况
+
+* yulixing：
+	* [代码地址](https://github.com/miniTechTeam2/FE-practice/tree/master/1-nav/yulixing)
+	* [在线效果展示-1](https://minitechteam2.github.io/FE-practice/1-nav/yulixing/demo1.html)
+	* [在线效果展示-2](https://minitechteam2.github.io/FE-practice/1-nav/yulixing/demo1.html)
