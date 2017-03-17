@@ -25,5 +25,6 @@
 
 * yulixing：
 	* [代码地址](https://github.com/miniTechTeam2/FE-practice/tree/master/1-nav/yulixing)
-	* [在线效果展示-1](https://minitechteam2.github.io/FE-practice/1-nav/yulixing/demo1.html)
-	* [在线效果展示-2](https://minitechteam2.github.io/FE-practice/1-nav/yulixing/demo2.html)
+	* [在线效果展示-侧边导航栏](https://minitechteam2.github.io/FE-practice/1-nav/yulixing/demo1.html)
+	* [在线效果展示-响应式导航栏](https://minitechteam2.github.io/FE-practice/1-nav/yulixing/demo2.html)
+	* 备注： 页面中使用SVG图片，在火狐浏览器中不能正确显示。

@@ -72,6 +72,12 @@ body {
 	overflow: hidden;
 }
 
+
+/*锚点*/
+.anc {
+	position: absolute;
+}
+
 .page {
 	position: absolute;
 	width: 100%;
@@ -92,41 +98,41 @@ body {
 	font-size: 100px;
 }
 
-#p1, #p2, #p3, #p4, #p5 {
+.page {
 	transition: left 1s;
 }
 
 #p1 {
-	left: 88%;
+	left: 90%;
 	background-color: #C3B9B1;
 }
 
 #p2 {
-	left: 90%;
+	left: 92%;
 	background-color: #DC9B5A;
 }
 
 #p3 {
-	left: 92%;
+	left: 94%;
 	background-color: #E49788;
 }
 
 #p4 {
-	left: 94%;
+	left: 96%;
 	background-color: #E9C778;
 }
 
 
 #p5 {
-	left: 96%;/*98%出bug*/
+	left: 98%;
 	background-color: #E8D7C3;
 }
 
-#p1:hover, #p1:target,
-#p2:hover, #p2:target,
-#p3:hover, #p3:target,
-#p4:hover, #p4:target,
-#p5:hover, #p5:target {
+#p1:hover, #anc1:target+#p1,
+#p2:hover, #anc2:target+#p2,
+#p3:hover, #anc3:target+#p3,
+#p4:hover, #anc4:target+#p4,
+#p5:hover, #anc5:target+#p5 {
 	left: 0;
 }
 
